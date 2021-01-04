@@ -1,0 +1,3 @@
+[submodule "jsx-exercises"]
+	path = jsx-exercises
+	url = ./jsx-exercises
